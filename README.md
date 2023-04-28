@@ -8,6 +8,8 @@
 ### Dataset
 * The games.csv file is required for the code to run, more details on this kaggle chess dataset is provided in the project report.
 
-### Project Report and R code
+### Project Report
 * Download the pdf to see an in depth report that answers these questions with statistical techniques such as two-sided t-testes, Anova, correlation and more.
-* The R file to obtain results is also posted in this repository, no additional plugins are required.
+
+### R code
+* The R code ran to obtain the results analzed in the project report are also posted in this repository, only a dataset and R requirement are required.
