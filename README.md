@@ -8,5 +8,4 @@
 <br />
 
 * Download the pdf file to see an in depth report that answers these questions with statistical techniques such as two-sided t-testes, Anova, correlation and more.
-<br /> 
 * The R file to obtain results is also posted in this repository, no additional plugins are required.
